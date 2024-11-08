@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #8a3d06;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #8c8c8c;
+        stroke-width: 2.1px;
+      }
+
+      .cls-6 {
+        opacity: .3;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        isolation: isolate;
+      }
+
+      .cls-7 {
+        opacity: .4;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-8 {
+        fill: #ff3;
+      }
+
+      .cls-8, .cls-11 {
+        opacity: .5;
+      }
+
+      .cls-12 {
+        fill: #c40808;
+      }
+
+      .cls-13 {
+        fill: #d9b477;
+      }
+
+      .cls-14 {
+        fill: #8b8b8b;
+      }
+
+      .cls-15 {
+        fill: #ad9f4e;
+      }
+
+      .cls-9 {
+        opacity: .25;
+      }
+
+      .cls-9, .cls-10, .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        opacity: .35;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M68.66,300.65h-18.15"/>
+  <path class="cls-3" d="M531.34,300.65h18.15"/>
+  <g id="breadboard">
+    <rect id="connector0pin" class="cls-1" x="38.61" y="282.51" width="12.47" height="12.47"/>
+    <rect id="connector1pin" class="cls-1" x="548.92" y="282.51" width="12.47" height="12.47"/>
+    <line id="connector0leg" class="cls-2" x1="50.52" y1="300.65" x2="68.66" y2="300.65"/>
+    <line id="connector1leg" class="cls-2" x1="549.48" y1="300.65" x2="531.34" y2="300.65"/>
+    <path class="cls-4" d="M50.52,300.65h491.37"/>
+    <path id="body" class="cls-13" d="M209.88,246.31c-6.24-2.87-16.96-5.11-23.82-5.11h-34.42c-6.86,0-12.47,5.61-12.47,12.47v92.78c0,6.87,5.61,12.47,12.47,12.47h34.42c6.86,0,17.59-2.36,23.82-5.11l1.25-.61c6.24-2.87,16.96-5.11,23.82-5.11h124.47c6.87,0,17.57,2.36,23.81,5.11l1.26.61c6.24,2.87,16.94,5.11,23.82,5.11h34.42c6.88,0,12.47-5.6,12.47-12.47v-92.78c0-6.86-5.59-12.47-12.47-12.47h-34.42c-6.88,0-17.59,2.37-23.82,5.11l-1.26.62c-6.24,2.87-16.94,5.11-23.81,5.11h-124.47c-6.86,0-17.59-2.37-23.82-5.11l-1.25-.62Z"/>
+    <rect id="gold_band" data-name="gold band" class="cls-15" x="413.79" y="241.09" width="12.17" height="117.71"/>
+    <rect id="band_rd_multiplier" data-name="band rd multiplier" class="cls-5" x="312.52" y="252.05" width="32.05" height="95.91"/>
+    <rect id="band_2_nd" data-name="band 2 nd" class="cls-12" x="248.42" y="252.05" width="32.05" height="95.91"/>
+    <path id="band_1_st" data-name="band 1 st" class="cls-12" d="M216.48,248.81c-2-.62-3.87-1.25-5.36-2l-1.25-.62c-6.24-2.86-16.96-5.11-23.82-5.11h-1.5v117.72h1.5c6.86,0,17.59-2.36,23.82-5.11l1.25-.61c1.5-.77,3.37-1.38,5.36-2v-102.27Z"/>
+    <path id="Shadow" class="cls-6" d="M443.1,308.57h0c0,6.57-2.26,12.11-5.11,12.11h-33.3c-6.59,0-16.94-.97-23.09-2.12l-1.26-.27c-5.97-1.12-16.44-2.12-23.1-2.12h-120.33c-6.61,0-16.96,1-23.07,2.12l-1.25.26c-5.99,1.13-16.34,2.12-23.07,2.12h-28.19c-6.61,0-12.1,5.09-12.1,11.17v7.03s0,2.99,0,2.99c0,6.24,5.49,11.17,12.1,11.17h28.06c6.61,0,16.96-2.12,23.07-4.63l1.25-.49c5.99-2.44,16.46-4.59,23.07-4.59h120.33c6.57,0,16.92,2.15,23.11,4.6l1.28.49c5.97,2.51,16.36,4.63,23.1,4.63h38.54c6.6,0,12.11-5.11,12.11-11.17v-9.37s0-16.85,0-16.85v-31.94c-4.8,1.87-12.16,7.11-12.16,24.84Z"/>
+    <rect id="ShadowExtra" class="cls-7" x="413.79" y="298.07" width="12.17" height="54.61"/>
+    <path id="ReflexRight" class="cls-9" d="M374.5,256.54c3.98,0,8.51-1.75,11.47-2.99,3.49-1.37,9.99-2.49,16.74-2.49h25.31c3.89,0,3.89,4.24,3.89,6.49s-.26,6.61-3.89,6.61h-53.01c-1.86,0-3.99-2-3.99-3.88.11-1.48,1.36-3.73,3.48-3.73Z"/>
+    <circle id="ReflexLeft" class="cls-10" cx="153.62" cy="257.41" r="7.48"/>
+    <rect id="Reflex_gold" data-name="Reflex gold" class="cls-8" x="413.79" y="245.07" width="12.17" height="28.06"/>
+    <rect id="Reflex_extra" data-name="Reflex extra" class="cls-11" x="413.79" y="251.3" width="12.17" height="12.97"/>
+  </g>
+  <rect id="bb" class="cls-14" x="487.54" y="252.58" width="29.05" height="94.84" transform="translate(200.51 801.13) rotate(-89.82)"/>
+  <rect id="bb-2" data-name="bb" class="cls-14" x="76.91" y="252.58" width="29.05" height="94.84" transform="translate(-208.85 390.5) rotate(-89.82)"/>
+</svg>

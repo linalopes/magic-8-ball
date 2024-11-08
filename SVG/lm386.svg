@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1c1c1c;
+      }
+
+      .cls-2 {
+        fill: #212121;
+      }
+
+      .cls-3 {
+        fill: #3d3d3d;
+      }
+
+      .cls-4 {
+        fill: #303030;
+      }
+
+      .cls-5 {
+        fill: #141414;
+      }
+
+      .cls-6 {
+        fill: #262626;
+      }
+
+      .cls-7 {
+        fill: #1f1f1f;
+      }
+
+      .cls-8 {
+        fill: #383838;
+      }
+
+      .cls-9 {
+        fill: #8c8c8c;
+      }
+
+      .cls-10 {
+        fill: #e6e6e6;
+        font-family: ArialMT, Arial;
+        font-size: 95.79px;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <g id="breadboard">
+    <rect id="middle" class="cls-4" x="60.52" y="138.35" width="478.95" height="323.29"/>
+    <rect id="top" class="cls-3" x="60.52" y="138.35" width="478.95" height="29.46"/>
+    <rect id="bottom" x="60.52" y="432.19" width="478.95" height="29.46"/>
+    <polygon id="right" class="cls-5" points="539.48 138.35 530.5 167.81 530.5 432.19 539.48 461.65 539.48 138.35"/>
+    <polygon id="left" class="cls-7" points="60.52 138.35 69.5 167.81 69.5 432.19 60.52 461.65 60.52 138.35"/>
+    <polygon id="left-upper-rect" class="cls-1" points="120.39 240.13 69.5 239.65 67.23 265.04 67.23 300 120.39 300 120.39 240.13"/>
+    <polygon id="left-lower-rect" class="cls-8" points="69.5 360.47 120.39 360.47 120.39 300 67.23 300 67.23 334.96 69.5 360.47"/>
+    <path id="slot" class="cls-6" d="M67.23,265.04v69.81c17.6-2.04,31.37-16.76,31.37-34.96s-13.65-32.81-31.37-34.84Z"/>
+    <path id="cover" class="cls-4" d="M69.5,167.81v71.72c28.5,5.39,50.17,30.29,50.17,60.35s-21.55,55.08-50.17,60.47v.12h59.87v-192.66h-59.87Z"/>
+    <circle class="cls-2" cx="138.35" cy="383.46" r="24.67"/>
+    <text id="label" class="cls-10" transform="translate(138.35 299.99)"><tspan x="0" y="0">IC</tspan></text>
+    <rect id="connector0pin" class="cls-9" x="102.43" y="445.6" width="35.92" height="51.97"/>
+    <rect id="connector0terminal" class="cls-9" x="102.43" y="461.65" width="35.92" height="35.92"/>
+    <polygon class="cls-9" points="102.43 445.6 102.43 469.55 138.35 469.55 162.3 458.53 162.3 445.6 102.43 445.6"/>
+    <rect id="connector7pin" class="cls-9" x="102.43" y="102.43" width="35.92" height="51.97"/>
+    <rect id="connector7terminal" class="cls-9" x="102.43" y="102.43" width="35.92" height="35.92"/>
+    <polygon class="cls-9" points="162.3 154.4 162.3 141.47 138.35 130.45 102.43 130.45 102.43 154.4 162.3 154.4"/>
+    <rect id="connector3pin" class="cls-9" x="461.65" y="445.6" width="35.92" height="51.97"/>
+    <rect id="connector3terminal" class="cls-9" x="461.65" y="461.65" width="35.92" height="35.92"/>
+    <polygon class="cls-9" points="437.7 445.6 437.7 458.53 461.65 469.55 497.57 469.55 497.57 445.6 437.7 445.6"/>
+    <rect id="connector4pin" class="cls-9" x="461.65" y="102.43" width="35.92" height="51.97"/>
+    <rect id="connector4terminal" class="cls-9" x="461.65" y="102.43" width="35.92" height="35.92"/>
+    <polygon class="cls-9" points="497.57 154.4 497.57 130.45 461.65 130.45 437.7 141.47 437.7 154.4 497.57 154.4"/>
+    <rect id="connector6pin" class="cls-9" x="222.17" y="102.43" width="35.92" height="51.97"/>
+    <rect id="connector6terminal" class="cls-9" x="222.17" y="102.43" width="35.92" height="35.92"/>
+    <polygon class="cls-9" points="282.04 154.4 282.04 141.47 258.09 130.45 222.17 130.45 198.22 141.47 198.22 154.4 282.04 154.4"/>
+    <rect id="connector5pin" class="cls-9" x="341.91" y="102.43" width="35.92" height="51.97"/>
+    <rect id="connector5terminal" class="cls-9" x="341.91" y="102.43" width="35.92" height="35.92"/>
+    <polygon class="cls-9" points="401.78 154.4 401.78 141.47 377.83 130.45 341.91 130.45 317.96 141.47 317.96 154.4 401.78 154.4"/>
+    <rect id="connector1pin" class="cls-9" x="222.17" y="445.6" width="35.92" height="51.97"/>
+    <rect id="connector1terminal" class="cls-9" x="222.17" y="461.65" width="35.92" height="35.92"/>
+    <polygon class="cls-9" points="198.22 445.6 198.22 458.53 222.17 469.55 258.09 469.55 282.04 458.53 282.04 445.6 198.22 445.6"/>
+    <rect id="connector2pin" class="cls-9" x="341.91" y="445.6" width="35.92" height="51.97"/>
+    <rect id="connector2terminal" class="cls-9" x="341.91" y="461.65" width="35.92" height="35.92"/>
+    <polygon class="cls-9" points="317.96 445.6 317.96 458.53 341.91 469.55 377.83 469.55 401.78 458.53 401.78 445.6 317.96 445.6"/>
+  </g>
+</svg>
